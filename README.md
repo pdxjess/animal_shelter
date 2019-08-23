@@ -1,24 +1,44 @@
-# README
+# _Animal Shelter API_
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#### _Week 6 Independent Project for Ruby at Epicodus_
 
-Things you may want to cover:
+#### By _**Jessica Doss**_
 
-* Ruby version
+## Description
 
-* System dependencies
+_A an application that has animals for adoption at shelters. This is intended to demonstrate an understanding of building an API in Ruby and Rails._
 
-* Configuration
+## Setup/Installation Requirements
 
-* Database creation
+* _Clone this repository_
+* _Open terminal and type 'git clone [git link]'_
+* _Navigate to project directory using cd in terminal_
+* _Open project in text editor (atom .)_
+* _Type 'bundle' in terminal to load Gems_
+* _Type "rails s" to run website on localhost._
+* _Open your desired browser and type in "http://localhost:3000/"_
 
-* Database initialization
+## Known Bugs
 
-* How to run the test suite
+_No known bugs_
 
-* Services (job queues, cache servers, search engines, etc.)
+## Support and contact details
 
-* Deployment instructions
+_Please contact us if you have any issues at: doss.jessicam@gmail.com_
 
-* ...
+## Technologies Used
+
+* Ruby
+* PostgreSQL
+* RubyGems
+* Atom
+* GitHub
+* Rails
+
+## Acknowledgements
+_Thank you to my teachers and partners this week. I wouldn't be where I am without you all._
+
+### License
+_This software is licensed under MIT license._
+
+Copyright (c) 2019 **_Jessica Doss_**
