@@ -10,13 +10,11 @@ _A an application that has animals for adoption at shelters. This is intended to
 
 ## Setup/Installation Requirements
 
-* _Clone this repository_
-* _Open terminal and type 'git clone [git link]'_
-* _Navigate to project directory using cd in terminal_
-* _Open project in text editor (atom .)_
-* _Type 'bundle' in terminal to load Gems_
-* _Type "rails s" to run website on localhost._
-* _Open your desired browser and type in "http://localhost:3000/"_
+* _Clone repository._
+* _Enter project root directory and type "bundle install" to install all necessary gems._
+* _Type "rake db:create" to create the databases._
+* _Type "rake db:seed" to seed the products and reviews_
+* _Sign into Postman to test API calls_
 
 ## Known Bugs
 
