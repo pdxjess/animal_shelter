@@ -16,6 +16,19 @@ _A an application that has animals for adoption at shelters. This is intended to
 * _Type "rake db:seed" to seed the products and reviews_
 * _Sign into Postman to test API calls_
 
+## Endpoints
+
+| Behavior | Route Input | Output |
+| ------------- |:-------------:| -----:|
+| GET animals | localhost:3000/animals | Returns list of all animals |
+| GET animals ID | localhost:3000/animals/{id} | Returns the animal record with the given id |
+| GET animals random | localhost:3000/animals/random | Returns the animal record with the given id |
+| GET animals search | localhost:3000/animals/search | String required for term to search for |
+| POST animals | localhost:3000/animals | Create a new animal record |
+| Update animals | localhost:3000/animals/{id} | Allows shelter to make updates |
+| DELETE animal | localhost:3000/animals/{id} | Deletes an animal record |
+
+
 ## Known Bugs
 
 _No known bugs_
